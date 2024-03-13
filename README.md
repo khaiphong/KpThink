@@ -1,2 +1,2 @@
 # kp_think
-Think-Tank to promote "Core Values of Honesty &amp;amp; Care"
+Sustainable Think-Tank to promote "<b>Core Values of Honesty &amp; Care</b>"
