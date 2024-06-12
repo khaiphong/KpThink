@@ -1,3 +1,3 @@
-# kp_think
+# KpThink
 
-Sustainable Think-Tank to promote "<b>Core Values of Honesty &amp; Care</b>"
+Think-Tank to promote "<b>Core Values of Honesty &amp; Care</b>"
