@@ -1,0 +1,8 @@
+[package]
+name = "KpThink"
+version = "0.1.0"
+edition = "2021"
+description = "Think-Tank to promote Core Values of Honesty & Care"
+license = "Apache-2.0"
+
+[dependencies]

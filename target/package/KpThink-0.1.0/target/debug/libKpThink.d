@@ -1,0 +1,1 @@
+/home/batien/Kp/GitSrc/github.com/khaiphong/KpThink/target/package/KpThink-0.1.0/target/debug/libKpThink.rlib: /home/batien/Kp/GitSrc/github.com/khaiphong/KpThink/target/package/KpThink-0.1.0/src/lib.rs
